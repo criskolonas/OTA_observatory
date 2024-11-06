@@ -10,9 +10,9 @@ The backend will be responsible for:
   Handling user queries on boundaries and displaying relevant charts/statistics.
 
 # 2. Key Technologies
-  Spring Boot: For building the backend API.
-  Spring Data JPA: For database interaction and ORM (Object Relational Mapping).
-  H2 Database or PostgreSQL: For storing geographic and statistical data.
-  Spring Security (optional): For securing APIs if authentication/authorization is needed.
-  Jackson (for JSON processing): For sending and receiving data in JSON format.
-  Spring Web (REST APIs): For building RESTful services to communicate with the front-end.
+  <li>Spring Boot: For building the backend API.</li>
+  <li>Spring Data JPA: For database interaction and ORM (Object Relational Mapping).</li>
+  <li>H2 Database or PostgreSQL: For storing geographic and statistical data.</li>
+  <li>Spring Security (optional): For securing APIs if authentication/authorization is needed.</li>
+  <li>Jackson (for JSON processing): For sending and receiving data in JSON format.</li>
+  <li>Spring Web (REST APIs): For building RESTful services to communicate with the front-end.</li>
