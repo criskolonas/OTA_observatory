@@ -2,7 +2,7 @@
 
 The backend of the OTA Observatory Platform will serve as the engine that handles data processing, interaction with the database, and serves the necessary APIs to the front-end (React.js or any other front-end framework). Below is an outline of the back-end functionality, using Spring Boot to provide RESTful APIs for the platform.
 
-<b> 1. Overview </b> <br/> 
+<b> 1. Overview </b> <br/>   <br/> 
 The backend will be responsible for:
   Managing the database of regions, prefectures, and related statistical data.
   Exposing RESTful APIs that allow the front-end to retrieve and interact with data.
